@@ -25,8 +25,10 @@ JOBS = [{
 
 
 @app.route("/")
-def hello_jovian():
-  return render_template('home.html', jobs=JOBS, company_name='Abhinna')
+def hello_race2cloud():
+  return render_template('home.html',
+                         jobs=JOBS,
+                         company_name='Race2Cloud Technology')
 
 
 @app.route("/api/jobs")
