@@ -19,7 +19,7 @@ JOBS = [{
 }, {
   'id': 4,
   'title': 'Trainee Consultant',
-  'location': 'San Francisco, USA',
+  'location': 'Bengaluru, India',
   'salary': 'INR 15,000'
 }]
 
